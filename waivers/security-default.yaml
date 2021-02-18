@@ -1,0 +1,3 @@
+cis-dil-benchmark-1.1.1.1:
+  run: false
+  justification: "reason for waiving this control, It does not apply since we running the VM in the cloud "
